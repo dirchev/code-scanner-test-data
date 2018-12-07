@@ -6,4 +6,4 @@ This repository contains test code snippets for the [Code Scanner application](h
 2. `vulnerabilities` - contains code snippets with JavaScript vulnerabilities
 3. `valid` - contains valid code snippets - without errors and vulnerabilities
 
-
+**NOTE: some of the code snippets are not created by me. Credits are given in the first comment in the code snippet**
